@@ -9,5 +9,6 @@
  * @author rasmu
  */
 public class SignIn {
-    
+    String userName;
+    String password;
 }
