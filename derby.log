@@ -1,0 +1,31 @@
+Wed Apr 08 13:14:00 CEST 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Apr 08 13:14:00 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-597f-3259-ffff817ec024 
+on database directory C:\Users\Danie\Documents\GitHub\ScrumProjekt\ScrumProjektDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/C:/Users/Danie/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.6+8-LTS
+user.dir=C:\Users\Danie\GlassFish_Server\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Danie\Documents\GitHub\ScrumProjekt
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 08 13:14:01 CEST 2020:
+Shutting down instance a816c00e-0171-597f-3259-ffff817ec024 on database directory C:\Users\Danie\Documents\GitHub\ScrumProjekt\ScrumProjektDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Wed Apr 08 13:14:01 CEST 2020 Thread[DRDAConnThread_3,5,main] (DATABASE = ScrumProjektDB), (DRDAID = {2}), Database 'ScrumProjektDB' shutdown.
+----------------------------------------------------------------
+Wed Apr 08 13:15:12 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ede40af-0171-597f-3259-ffff817ec024 
+on database directory C:\Users\Danie\Documents\GitHub\ScrumProjekt\ScrumProjektDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/C:/Users/Danie/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.6+8-LTS
+user.dir=C:\Users\Danie\GlassFish_Server\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Danie\Documents\GitHub\ScrumProjekt
+Database Class Loader started - derby.database.classpath=''
